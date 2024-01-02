@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaung Min Khant</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmkkhant&label=Profile%20views&color=0e75b6&style=flat" alt="kmkkhant" /> </p>
 
-- 🔭 I’m currently working on [Koe Na Win Tracker](https://github.com/kmkkhant/koe-na-win-tracker)
-
-- 👨‍💻 All of my projects are available at [https://www.kaungminkhant.com](https://www.kaungminkhant.com)
+<h3 align="left">Projects</h3>
+- [Koe Na Win Tracker](https://github.com/kmkkhant/koe-na-win-tracker)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
