@@ -2,7 +2,7 @@
 
 ## Projects ️
 
-* Koe Na Win Tracker [Link to project](https://github.com/kmkkhant/koe-na-win-tracker)
+* Koe Na Win Tracker [Link](https://github.com/kmkkhant/koe-na-win-tracker)
 
 ## Connect with Me 
 
