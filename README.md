@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmkkhant&label=Profile%20views&color=0e75b6&style=flat" alt="kmkkhant" /> </p>
 
 <h3 align="left">Projects</h3>
-- [Koe Na Win Tracker](https://github.com/kmkkhant/koe-na-win-tracker)
+* [Koe Na Win Tracker](https://github.com/kmkkhant/koe-na-win-tracker)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
